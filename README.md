@@ -1,13 +1,14 @@
 # Pewlett-Hackard-Analysis
 ## **Overview of the Analysis**
-The purpose of the analysis is to find the below:
+The purpose of the analysis is to find the below for Pwelett-Hackard:
 * The Number of Retiring Employees by Title
 * The Employees Eligible for the Mentorship Program
 
 ## **Results**
 
-![Retiring_Titles](../Data/Retiring_titles.png)
-![Retiring_Titles_With_Mentorship_Eligibility](../Data/Retiring_Titles_Mentopship_Eligibility.png)
+![Retiring_Titles](Data/Retiring_titles.png)
+
+![Retiring_Titles_With_Mentorship_Eligibility](Data/Retiring_Titles_Mentopship_Eligibility.png)
 
 * A total of 90398 people are going to be retiring very soon from Pewlett-Hackard.
 * Just 1549 people out of those are eligible for the mentorship program.
