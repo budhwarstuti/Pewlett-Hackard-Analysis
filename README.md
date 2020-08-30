@@ -16,6 +16,6 @@ The purpose of the analysis is to find the below for Pwelett-Hackard:
 * There are relatively less Technical leaders, Assistant Engineers and Managers retiring.
 
 ##  **Summary**
-* With about 90390 people retiring and just 1549 people eligble for mentorship program, Pewlett-Harchard is going to have to start a vigourous interview process to fill in for the people who are going to retire.
+* With about 90398 people retiring and just 1549 people eligble for mentorship program, Pewlett-Harchard is going to have to start a vigourous interview process to fill in for the people who are going to retire.
 * Based on the table provided above for the vacancies that are going to be created for all positions, it might be a good idea to also have a mentorship programme to prepare the existing employees for those positions also which might save the time & effort for interview process.
 * There could also be new positions created to bridge between the current employee position and new position that just got vacated; until the employee attains the ability to take up the tasks/responsibilities for the new position.
